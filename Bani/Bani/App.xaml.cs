@@ -11,7 +11,7 @@ namespace Bani
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new Quotes();
         }
 
         protected override void OnStart()
